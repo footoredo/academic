@@ -5,9 +5,9 @@
 layout: default
 ---
 
-## Research interest
+## Research Interest
 
-My research interest lies in *(Multi-agent) Reinforcement Learning*, *Multi-agent Systems* and *Game AI*. I am particularly interested in using *Reinforcement Learning* to solve *Multi-agent* problems.
+My research interest lies in *(Multi-agent) Reinforcement Learning*, *Multi-agent Systems*, *Game AI* and *Game Theory*. I am particularly interested in using *Reinforcement Learning* to solve *Multi-agent* problems.
 
 ## Publications
 
