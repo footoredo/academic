@@ -15,4 +15,7 @@ My research interest lies in *(Multi-agent) Reinforcement Learning*, *Multi-agen
 Submitted to **ICLR 2020**, received positive reviews. [\[OpenReview\]](https://openreview.net/forum?id=SJxbHkrKDH)
 
 - **Zihan Zhou**, Zheyuan Ryan Shi, Fei Fang, Yi Wu. *"Approximated Temporal-Induced Neural Self-Play for Finitely Repeated Bayesian Games"*
-Accepted by **AAAI 2020 Workshop on Reinforcement Learning in Games** *(Oral presentation)*
+Accepted by **AAAI 2020 Workshop on Reinforcement Learning in Games** *(Oral presentation)*.
+
+- Huichu Zhang, Siyuan Feng, Chang Liu, Yaoyao Ding, Yichen Zhu, **Zihan Zhou**, Weinan Zhang, Yong Yu, Haiming Jin, and Zhenhui Li. *"“CityFlow: A Multi-Agent Reinforcement Learning Environment for Large Scale City Traffic Scenario"*
+Accepted by **WWW 2019 Demonstration**. [\[Website\]](https://cityflow-project.github.io/)
