@@ -12,7 +12,7 @@ My research interest lies in *(Multi-agent) Reinforcement Learning*, *Multi-agen
 ## Publications
 
 - Qian Long\*, **Zihan Zhou\***, Abhinav Gupta, Fei Fang, Yi Wu†, and Xiaolong Wang†. *"Evolutionary Population Curriculum for Scaling Multi-Agent Reinforcement Learning"* (\*, † indicate equal contributions)  
-Submitted to **ICLR 2020**, received positive reviews. [\[OpenReview\]](https://openreview.net/forum?id=SJxbHkrKDH)
+Accepted by **ICLR 2020**. [\[OpenReview\]](https://openreview.net/forum?id=SJxbHkrKDH)
 
 - **Zihan Zhou**, Zheyuan Ryan Shi, Fei Fang, Yi Wu. *"Approximated Temporal-Induced Neural Self-Play for Finitely Repeated Bayesian Games"*
 Accepted by **AAAI 2020 Workshop on Reinforcement Learning in Games** *(Oral presentation)*.
