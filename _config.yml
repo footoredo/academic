@@ -34,7 +34,7 @@ remote_theme: footoredo/minimal
 plugins:
   - jekyll-feed
 
-cv: cv.pdf
+cv: https://drive.google.com/file/d/1WRKMemdI1ZheXw677-dKwbPvstzR97mW/view?usp=sharing
 
 repository: footoredo/academic
 
