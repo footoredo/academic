@@ -22,7 +22,7 @@ title: Zihan Zhou
 email: footoredo@gmail.com
 safe_email: footoredo [at] gmail [dot] com
 description: >- # this means to ignore newlines until "baseurl:"
-  I start studying at the University of Toronto! I am supervised by [Prof. Animesh Garg](https://animesh.garg.tech/).
+  I start studying at the University of Toronto! I am supervised by <a href="https://animesh.garg.tech/">Prof. Animesh Garg</a>.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://zihan.page" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: footoredo
