@@ -25,6 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   I start studying at the University of Toronto! I am supervised by <a href="https://animesh.garg.tech/">Prof. Animesh Garg</a>.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://zihan.page" # the base hostname & protocol for your site, e.g. http://example.com
+logo: https://i.ibb.co/ynkCkj8/oooo-plus-70.png
 twitter_username: footoredo
 github_username: footoredo
 google_scholar: https://scholar.google.com/citations?user=HwFGzZMAAAAJ&hl=zh-CN
