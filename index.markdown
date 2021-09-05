@@ -3,12 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Academics🎓
+title: Academics
 ---
 
 ## Research Interest
 
-My research interest lies in *(Multi-agent) Reinforcement Learning*, *Multi-agent Systems*, *Game AI* and *Game Theory*. I am particularly interested in using *Reinforcement Learning* to solve *Multi-agent* problems.
+(Multi-agent) Reinforcement learning / Multi-agent systems / Game AI / Game theory
 
 ## Publications / Preprints
 
