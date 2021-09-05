@@ -24,5 +24,5 @@ title: Academics
 - Huichu Zhang, Siyuan Feng, Chang Liu, Yaoyao Ding, Yichen Zhu, **Zihan Zhou**, Weinan Zhang, Yong Yu, Haiming Jin, and Zhenhui Li. *"CityFlow: A Multi-Agent Reinforcement Learning Environment for Large Scale City Traffic Scenario"*.  
 🤜 Accepted by **WWW 2019 Demonstration**. [\[Website\]](https://cityflow-project.github.io/) [\[Arxiv\]](https://arxiv.org/abs/1905.05217)
 
-- Xuehui Sun, **Zihan Zhou**, Yuda Fan. *"Image Based Review Text Generation with Emotional Guidance"*  
+- Xuehui Sun, **Zihan Zhou**, Yuda Fan. *"Image Based Review Text Generation with Emotional Guidance"*.  
 🤜 Preprint. [\[Arxiv\]](https://arxiv.org/abs/1901.04140)
