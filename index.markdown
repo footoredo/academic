@@ -13,7 +13,7 @@ title: Academics
 ## Publications / Preprints
 
 - Weizhe Chen\*, **Zihan Zhou\***, Yi Wu, Fei Fang. *"Temporal Induced Self-Play for Stochastic Bayesian Games"*. (\* equal contributions)  
-🤜 Accepted by **IJCAI 2021**. [\[Arxiv\]](https://arxiv.org/abs/2108.09444)
+🤜 Accepted by **IJCAI 2021**. [\[Paper\]](https://www.ijcai.org/proceedings/2021/0014.pdf)
 
 - Qian Long\*, **Zihan Zhou\***, Abhinav Gupta, Fei Fang, Yi Wu†, and Xiaolong Wang†. *"Evolutionary Population Curriculum for Scaling Multi-Agent Reinforcement Learning"*. (\* equal contributions, † equal advising)  
 🤜 Accepted by **ICLR 2020**. [\[Arxiv\]](https://arxiv.org/abs/2003.10423) [\[OpenReview\]](https://openreview.net/forum?id=SJxbHkrKDH) 
