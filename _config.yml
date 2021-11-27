@@ -30,16 +30,12 @@ logo: https://i.ibb.co/ynkCkj8/oooo-plus-70.png
 # png_favicon: /favicon.png
 twitter_username: footoredo
 github_username: footoredo
-github: https://github.com/footoredo
-google_scholar: https://scholar.google.com/citations?user=HwFGzZMAAAAJ
-gpg_public_key: https://raw.githubusercontent.com/footoredo/files/main/main.gpg
-cv: https://drive.google.com/file/d/1WRKMemdI1ZheXw677-dKwbPvstzR97mW/view?usp=sharing
 
 links:
   - name: Google Scholar
     url: https://scholar.google.com/citations?user=HwFGzZMAAAAJ
   - name: Curriculum Vitae
-    url: https://drive.google.com/file/d/1WRKMemdI1ZheXw677-dKwbPvstzR97mW/view?usp=sharing
+    url: /curriculum-vitae
   - name: Github
     url: https://github.com/footoredo
   - name: GPG public key

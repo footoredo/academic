@@ -1,0 +1,33 @@
+[
+    {
+        "institute": "University of Toronto",
+        "position": "Ph.D.",
+        "subject": "Computer Science",
+        "start": "September 2021",
+        "end": "Present",
+        "comments": [
+            "Supervised by [Prof. Animesh Garg](https://animesh.garg.tech/)."
+        ]
+    },
+    {
+        "institute": "Shanghai Jiao Tong University",
+        "position": "Bachelor of Engineering",
+        "subject": " Computer Science",
+        "start": "September 2016",
+        "end": "June 2020",
+        "comments": [
+            "ACM Honors Class is an elite CS program at SJTU for students ranked in the top 5% of the school."
+        ]
+    },
+    {
+        "institute": "Carnegie Mellon University",
+        "position": "Research intern",
+        "subject": "AI and Social Good Lab",
+        "start": "June 2019",
+        "end": "December 2019",
+        "comments": [
+            "Supervied by [Prof. Fei Fang](https://feifang.info/).",
+            "Research focused on multi-agent reinforcement learning and game theory."
+        ]
+    }
+]

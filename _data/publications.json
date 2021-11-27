@@ -1,0 +1,79 @@
+[
+    {
+        "title": "Temporal Induced Self-Play for Stochastic Bayesian Games",
+        "authors": [ "Weizhe Chen\\*", "**Zihan Zhou\\***", "Yi Wu", "Fei Fang"],
+        "comment": "(\\* equal contributions).",
+        "accepted": true,
+        "status": {
+            "venue": "IJCAI",
+            "year": 2021
+        },
+        "links": [{
+            "name": "Paper",
+            "url": "https://www.ijcai.org/proceedings/2021/0014.pdf"
+        }]
+    },
+    {
+        "title": "Evolutionary Population Curriculum for Scaling Multi-Agent Reinforcement Learning",
+        "authors": ["Qian Long\\*", "**Zihan Zhou\\***", "Abhinav Gupta", "Fei Fang", "Yi Wu†", "Xiaolong Wang†"],
+        "comment": "(\\* equal contributions, † equal advising).",
+        "accepted": true,
+        "status": {
+            "venue": "ICLR",
+            "year": 2020
+        },
+        "links": [{
+            "name": "Arxiv",
+            "url": "https://arxiv.org/abs/2003.10423"
+        }, {
+            "name": "OpenReview",
+            "url": "https://openreview.net/forum?id=SJxbHkrKDH"
+        }]
+    },
+    {
+        "title": "Approximated Temporal-Induced Neural Self-Play for Finitely Repeated Bayesian Games",
+        "authors": ["**Zihan Zhou**", "Zheyuan Ryan Shi", "Fei Fang", "Yi Wu"],
+        "comment": "",
+        "accepted": true,
+        "status": {
+            "venue": "AAAI",
+            "year": 2020,
+            "track": "Workshop on Reinforcement Learning in Games",
+            "other": "*(oral presentation)*"
+        },
+        "links": [{
+            "name": "Paper",
+            "url": "http://aaai-rlg.mlanctot.info/papers/AAAI20-RLG_paper_43.pdf"
+        }]
+    },
+    {
+        "title": "CityFlow: A Multi-Agent Reinforcement Learning Environment for Large Scale City Traffic Scenario",
+        "authors": ["Huichu Zhang", "Siyuan Feng", "Chang Liu", "Yaoyao Ding", "Yichen Zhu",
+            "**Zihan Zhou**", "Weinan Zhang", "Yong Yu", "Haiming Jin", "Zhenhui Li"],
+        "comment": "",
+        "accepted": true,
+        "status": {
+            "venue": "WWW",
+            "year": 2019,
+            "track": "Demonstration"
+        },
+        "links": [{
+            "name": "Website",
+            "url": "https://cityflow-project.github.io/"
+        }, {
+            "name": "Arxiv",
+            "url": "https://arxiv.org/abs/1905.05217"
+        }]
+    },
+    {
+        "title": "Image Based Review Text Generation with Emotional Guidance",
+        "authors": ["Xuehui Sun", "**Zihan Zhou**", "Yuda Fan"],
+        "comment": "",
+        "accepted": false,
+        "status": "Preprint",
+        "links": [{
+            "name": "Arxiv",
+            "url": "https://arxiv.org/abs/1901.04140"
+        }]
+    }
+]

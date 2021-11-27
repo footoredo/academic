@@ -3,9 +3,13 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Academics
+title: Curriculum Vitae
 ---
 
 {% include research_interests.markdown %}
 
 {% include publications.markdown %}
+
+{% include education.markdown %}
+
+{% include work.markdown %}
