@@ -1,5 +1,19 @@
 [
     {
+        "title": "Continuously Discovering Novel Strategies via Reward-Switching Policy Optimization",
+        "authors": ["**Zihan Zhou\\***", "Wei Fu\\*", "Bingliang Zhang", "Yi Wu"],
+        "comment": "(\\* equal contributions).",
+        "accepted": true,
+        "status": {
+            "venue": "ICLR",
+            "year": 2022
+        },
+        "links": [{
+            "name": "OpenReview",
+            "url": "https://openreview.net/forum?id=hcQHRHKfN_"
+        }]
+    },
+    {
         "title": "Temporal Induced Self-Play for Stochastic Bayesian Games",
         "authors": [ "Weizhe Chen\\*", "**Zihan Zhou\\***", "Yi Wu", "Fei Fang"],
         "comment": "(\\* equal contributions).",
