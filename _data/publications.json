@@ -9,6 +9,9 @@
             "year": 2022
         },
         "links": [{
+            "name": "Arxiv",
+            "url": "https://arxiv.org/abs/2204.02246"
+        }, {
             "name": "OpenReview",
             "url": "https://openreview.net/forum?id=hcQHRHKfN_"
         }]
