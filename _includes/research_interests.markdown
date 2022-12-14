@@ -1,3 +1,3 @@
 ## Research Interests
 
-(Multi-agent) Reinforcement learning / Multi-agent systems / Game AI / Game theory
+(Multi-agent) Reinforcement learning / Game AI / Game theory
