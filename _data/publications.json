@@ -3,9 +3,15 @@
         "title": "Learning Achievement Structure for Structured Exploration in Domains with Sparse Reward",
         "authors": ["**Zihan Zhou**", "Animesh Garg"],
         "comment": "",
-        "accepted": false,
-        "status": "Under review for **ICLR 2023**",
-        "links": []
+        "accepted": true,
+        "status": {
+            "venue": "ICLR",
+            "year": 2023
+        },
+        "links": [{
+            "name": "OpenReview",
+            "url": "https://openreview.net/forum?id=NDWl9qcUpvy"
+        }]
     },
     {
         "title": "Continuously Discovering Novel Strategies via Reward-Switching Policy Optimization",
