@@ -38,6 +38,8 @@ links:
     url: /curriculum-vitae
   - name: Github
     url: https://github.com/footoredo
+  - name: Twitter
+    url: https://twitter.com/zzhouredo
   - name: GPG public key
     url: https://raw.githubusercontent.com/footoredo/files/main/main.gpg
 
