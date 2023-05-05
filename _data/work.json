@@ -1,5 +1,14 @@
 [
     {
+        "institute": "Nuro, Inc.",
+        "position": "Applied Research Intern",
+        "start": "January 2023",
+        "end": "May 2023",
+        "comments": [
+            "Research focused on safe RL."
+        ]
+    },
+    {
         "institute": "Shanghai Qi Zhi Institute",
         "position": "Post-bachelor program",
         "start": "August 2020",
