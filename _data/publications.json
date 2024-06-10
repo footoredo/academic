@@ -1,5 +1,19 @@
 [
     {
+        "title": "RePLan: Robotic Replanning with Perception and Language Models",
+        "authors": ["Marta Skreta\\*", "**Zihan Zhou\\***", "Jia Lin Yuan\\*", "Kourosh Darvish", "Alán Aspuru-Guzik", "Animesh Garg"],
+        "comment": "(\\* equal contributions).",
+        "accepted": false,
+        "status": "Preprint",
+        "links": [{
+            "name": "arXiv",
+            "url": "https://arxiv.org/abs/2401.04157"
+        }, {
+            "name": "Website",
+            "url": "https://replan-lm.github.io/replan.github.io/"
+        }]
+    },
+    {
         "title": "Learning Achievement Structure for Structured Exploration in Domains with Sparse Reward",
         "authors": ["**Zihan Zhou**", "Animesh Garg"],
         "comment": "",
