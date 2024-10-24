@@ -1,5 +1,14 @@
 [
     {
+        "institute": "NVIDIA",
+        "position": "Robotics Research Intern",
+        "start": "January 2024",
+        "end": "July 2024",
+        "comments": [
+            "Research focused on Robot manipulation with RL."
+        ]
+    },
+    {
         "institute": "Nuro, Inc.",
         "position": "Applied Research Intern",
         "start": "January 2023",
