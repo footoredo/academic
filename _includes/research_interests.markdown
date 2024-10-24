@@ -1,3 +1,3 @@
 ## Research Interests
 
-Reinforcement Learning / Robotics Learning
+Reinforcement Learning / Robotics
