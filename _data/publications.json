@@ -34,6 +34,20 @@
         }]
     },
     {
+        "title": "Uniformly Safe RL with Objective Suppression for Multi-Constraint Safety-Critical Applications",
+        "authors": ["**Zihan Zhou\\***", "Jonathan Booher\\*", "Khashayar Rohanimanesh", "Wei Liu", "Aleksandr Petiushko", "Animesh Garg"],
+        "comment": "(\\* equal contribution).",
+        "accepted": true,
+        "status": {
+            "venue": "ML4AD",
+            "year": 2023
+        },
+        "links": [{
+            "name": "arXiv",
+            "url": "https://arxiv.org/pdf/2402.15650"
+        }]
+    },
+    {
         "title": "Learning Achievement Structure for Structured Exploration in Domains with Sparse Reward",
         "authors": ["**Zihan Zhou**", "Animesh Garg"],
         "comment": "",
