@@ -1,7 +1,7 @@
 [
     {
         "title": "ReinforceGen: Hybrid Skill Policies with Automated Data Generation and Reinforcement Learning",
-        "authors": ["**Zihan Zhou**", "Animesh Garg", "Ajay Mandlekar*", "Caelan Garrett*"],
+        "authors": ["**Zihan Zhou**", "Animesh Garg", "Ajay Mandlekar\\*", "Caelan Garrett\\*"],
         "comment": "(\\* equal contribution).",
         "accepted": false,
         "status": "Preprint",
@@ -15,7 +15,7 @@
     },
     {
         "title": "SPIRE: Synergistic Planning, Imitation, and Reinforcement Learning for Long-Horizon Manipulation",
-        "authors": ["**Zihan Zhou**", "Animesh Garg", "Dieter Fox", "Caelan Garrett*", "Ajay Mandlekar*"],
+        "authors": ["**Zihan Zhou**", "Animesh Garg", "Dieter Fox", "Caelan Garrett\\*", "Ajay Mandlekar\\*"],
         "comment": "(\\* equal contribution).",
         "accepted": true,
         "status": {
